@@ -31,6 +31,12 @@
             "homepage": "https://jens-hausdorf.de"
         }
     ],
+    "repositories": {
+      "binary-driver": {
+        "type": "git",
+        "url": "https://github.com/hamdon/BinaryDriver.git"
+      }
+    }
     "require": {
         "php": "^5.3.9 || ^7.0",
         "alchemy/binary-driver": "^1.5 || ~2.0.0 || ^5.0",
